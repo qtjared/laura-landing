@@ -37,7 +37,7 @@ export function SiteFooter() {
       <div className="border-t border-porcelain/15">
         <div className="page-shell flex flex-col gap-2 py-5 text-[0.7rem] text-porcelain/60 sm:flex-row sm:items-center sm:justify-between">
           <p>© {new Date().getFullYear()} Laura Flores Hairstylist</p>
-          <p>Villahermosa, Tabasco</p>
+          <p>Villahermosa, Tabasco.</p>
         </div>
       </div>
     </footer>

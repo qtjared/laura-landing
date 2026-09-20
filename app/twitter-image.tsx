@@ -5,6 +5,7 @@ import OpenGraphImage, {
 } from "./opengraph-image";
 
 export { alt, contentType, size };
+export const dynamic = "force-static";
 
 export default function TwitterImage() {
   return OpenGraphImage();
